@@ -1,0 +1,3 @@
+This Trojan doesn´t encrypt files but it owerwites the MBR it isn´t hard to fix.
+But only try it in a VM.
+The Trojan needs a Passwort to start write an E-mail to InfoMalte@web.de for the key.
